@@ -1,0 +1,9 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+mne
+mne_bids
